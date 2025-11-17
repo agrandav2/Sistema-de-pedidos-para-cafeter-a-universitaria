@@ -21,15 +21,14 @@ El sistema mostrará todos los productos disponibles, clasificados por categorí
 **RF03 – Edición/cancelación de pedidos**  
 El sistema permitirá modificar o cancelar pedidos antes de la confirmación final.
 
-### 🔹 Requerimientos no funcionales
+### REQUERIMIENTOS NO FUNCIONALES
 - **Rendimiento:** Respuesta menor a 3 segundos al registrar pedidos y menor a 2 segundos al mostrar el menú.
 - **Disponibilidad:** Recuperación ante fallos y funcionamiento continuo durante horas de alta demanda.
 - **Cumplimiento de estándares:** Aplicación de buenas prácticas de desarrollo, seguridad y manejo de datos.
 
 ---
 
-## 🧪 Tabla de pruebas de validación
-
+## 🧪 Tabla de pruebas
 | Caso de prueba | Requerimiento asociado | Datos de entrada | Resultado esperado | Resultado obtenido |
 |----------------|------------------------|------------------|--------------------|--------------------|
 | Registrar un pedido exitosamente | RF01 | Producto: “Café”, Cant: 2, Cliente: Ana | Pedido registrado y mensaje en < 3 s | ✔ Funciona según lo esperado |
