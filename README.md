@@ -37,13 +37,9 @@ Correctivo
 ---
 
 ## 🔄 Reflexión sobre el control de versiones
+El uso de herramientas de control de versiones como *Git* y plataformas como *GitHub* aporta múltiples beneficios:
 
-El uso de herramientas de control de versiones como **Git** y plataformas como **GitHub** aporta múltiples beneficios:
-
-- Permite llevar un **historial claro de cambios**, facilitando el seguimiento de errores.
-- Ayuda a organizar el trabajo mediante ramas (branches) para nuevas funciones o correcciones.
-- Facilita la colaboración entre varios desarrolladores sin riesgo de sobrescribir código.
-- Mejora la mantenibilidad mediante revisiones (pull requests) y control de versiones de documentación.
-- Permite revertir cambios en caso de errores, aumentando la seguridad del desarrollo.
-
-El control de versiones es fundamental para asegurar la evolución ordenada y profesional del sistema.
+- Permite llevar un historial claro de cambios, facilitando el seguimiento de errores
+- Facilita la colaboración entre varios desarrolladores sin riesgo de sobrescribir código
+- Mejora la mantenibilidad mediante revisiones y control de versiones de documentación
+- Permite revertir cambios en caso de errores, aumentando la seguridad del desarrollo
