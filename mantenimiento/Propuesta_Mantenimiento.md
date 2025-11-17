@@ -3,7 +3,7 @@
 
 ---
 
-## 1. Descripción general
+1. Descripción general
 El mantenimiento correctivo tiene como finalidad **resolver fallos o defectos** detectados en el sistema de pedidos utilizado en la cafetería universitaria.  
 Estas acciones buscan restaurar el funcionamiento normal del sistema y asegurar que los usuarios (estudiantes, personal y operadores) puedan realizar pedidos sin interrupciones.
 
