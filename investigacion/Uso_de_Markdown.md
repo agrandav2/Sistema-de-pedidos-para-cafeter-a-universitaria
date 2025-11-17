@@ -21,6 +21,7 @@ Markdown es popular en desarrollo de software porque:
 ### Encabezado 3
 #### Encabezado 4
 ##### Encabezado 5
+###### Encabezado 6
 
 - Lista 1
 * Lita 2
@@ -31,7 +32,9 @@ Markdown es popular en desarrollo de software porque:
 | Dato 1  | Dato 2  | Dato 3  |
 | Dato A  | Dato B  | Dato C  |
 
+[Enlaces](https://www.google.com)
 
+![Imágenes](https://imagenes.20minutos.es/uploads/imagenes/2024/05/15/una-imagen-creada-por-la-herramienta-imagen-3-de-google-1.jpeg)
 ```
 
 ---
