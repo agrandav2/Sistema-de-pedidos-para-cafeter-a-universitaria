@@ -1,5 +1,4 @@
 # 📝 ¿Qué es Markdown?
-
 **Markdown** es un lenguaje de marcado ligero que permite dar formato a texto de manera sencilla y rápida.
 
 ---
@@ -16,7 +15,6 @@ Markdown es popular en desarrollo de software porque:
 ---
 
 # 📌 Características clave de Markdown
-
 ## 1. **Sintaxis simple y legible**
 Markdown se entiende incluso sin procesarlo.  
 Ejemplo:
