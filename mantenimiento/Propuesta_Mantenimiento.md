@@ -4,12 +4,11 @@
 ---
 
 ### 1. Descripción general
-El mantenimiento correctivo tiene como finalidad **resolver fallos o defectos** detectados en el sistema de pedidos utilizado en la cafetería universitaria.  
-Estas acciones buscan restaurar el funcionamiento normal del sistema y asegurar que los usuarios (estudiantes, personal y operadores) puedan realizar pedidos sin interrupciones.
+El mantenimiento correctivo tiene como finalidad **resolver fallos o defectos** detectados en el sistema de pedidos utilizado en la cafetería universitaria.
 
 ---
 
-## 2. Objetivos del mantenimiento correctivo
+### 2. Objetivos del mantenimiento correctivo
 - Restablecer la **operación normal** del sistema ante errores o fallos.  
 - **Eliminar defectos** que afectan el registro de pedidos, la visualización del menú o el procesamiento de órdenes.  
 - Reducir tiempos de inactividad que impacten en la atención al cliente.  
