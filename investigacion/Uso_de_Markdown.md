@@ -24,3 +24,21 @@ Markdown se entiende incluso sin procesarlo.
 Ejemplo:
 ```markdown
 **Texto en negrita** y *texto en cursiva*
+```
+
+---
+
+## 2. Perfecto para documentación técnica
+
+Permite incluir código, imágenes, tablas, enlaces y listas fácilmente.
+
+### 📋 Ejemplo de tabla en Markdown
+
+A continuación, una tabla que resume sus ventajas en proyectos de software:
+
+| Característica                     | Beneficio                             |
+|-----------------------------------|----------------------------------------|
+| Sintaxis sencilla                 | Fácil de escribir y mantener           |
+| Compatible con control de versiones | Ideal para GitHub, GitLab, etc.      |
+| Ligero                            | Archivos muy livianos                  |
+| Flexible                          | Soporta imágenes, enlaces, listas, etc. |
