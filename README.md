@@ -12,14 +12,9 @@ Mejorar la experiencia de los estudiantes y del personal universitario al permit
 
 ## 📌 Requerimientos
 ### REQUERIMIENTOS FUNCIONALES
-**RF01 – Registro de pedidos**  
-El usuario puede seleccionar productos del menú, indicar cantidades y registrar el nombre del cliente.
-
-**RF02 – Visualización del menú**  
-El sistema mostrará todos los productos disponibles, clasificados por categorías y precios.
-
-**RF03 – Edición/cancelación de pedidos**  
-El sistema permitirá modificar o cancelar pedidos antes de la confirmación final.
+**Registro de pedidos:** El usuario puede seleccionar productos del menú, indicar cantidades y registrar el nombre del cliente.
+**Visualización del menú:** El sistema mostrará todos los productos disponibles, clasificados por categorías y precios.
+**Edición/cancelación de pedidos:** El sistema permitirá modificar o cancelar pedidos antes de la confirmación final.
 
 ### REQUERIMIENTOS NO FUNCIONALES
 - **Rendimiento:** Respuesta menor a 3 segundos al registrar pedidos y menor a 2 segundos al mostrar el menú.
