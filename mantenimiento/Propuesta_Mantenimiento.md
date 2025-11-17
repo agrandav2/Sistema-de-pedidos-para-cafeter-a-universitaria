@@ -17,7 +17,7 @@ El mantenimiento correctivo tiene como finalidad **resolver fallos o defectos** 
 
 ### 3. Alcance
 El mantenimiento abarca los módulos de:
-- Registro de pedidos
+* Registro de pedidos
 - Visualización del menú
 - Edición y cancelación de pedidos
 - Interfaz gráfica y flujos de navegación
@@ -26,14 +26,14 @@ El mantenimiento abarca los módulos de:
 
 ---
 
-## 4. Responsables
-- **Equipo de desarrollo:** diagnóstico, corrección y pruebas técnicas.  
-- **Administrador del sistema:** validación y despliegue.  
-- **Personal de cafetería:** reporte de fallos y pruebas funcionales finales.
+### 4. Responsables
+- Equipo de desarrollo: diagnóstico, corrección y pruebas técnicas
+- Administrador del sistema: validación y despliegue
+- Personal de cafetería: reporte de fallos y pruebas funcionales finales
 
 ---
 
-## 5. Tiempo estimado
+### 5. Tiempo estimado
 | Tipo de fallo | Tiempo estimado |
 |---------------|-----------------|
 | Crítico (impide procesar pedidos) | 2–4 horas |
@@ -43,7 +43,7 @@ El mantenimiento abarca los módulos de:
 
 ---
 
-## 6. Resultados esperados
+### 6. Resultados esperados
 - Restablecimiento completo del sistema sin errores detectados.  
 - Reducción de interrupciones en el servicio de atención.  
 - Mayor fiabilidad al procesar pedidos.  
