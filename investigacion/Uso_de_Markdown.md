@@ -14,10 +14,7 @@ Markdown es popular en desarrollo de software porque:
 
 ---
 
-# 📌 Características clave de Markdown
-## 1. **Sintaxis simple y legible**
-Markdown se entiende incluso sin procesarlo.  
-Ejemplo:
+# 🧪 Ejemplo práctico de uso de Markdown
 ```markdown
 **Texto en negrita** y *texto en cursiva*
 ```
@@ -38,6 +35,34 @@ A continuación, una tabla que resume sus ventajas en proyectos de software:
 | Compatible con control de versiones | Ideal para GitHub, GitLab, etc.      |
 | Ligero                            | Archivos muy livianos                  |
 | Flexible                          | Soporta imágenes, enlaces, listas, etc. |
+
+---
+
+## ⭐ Ventajas de utilizar Markdown en combinación con GitHub
+
+- **Documentación clara y profesional**  
+  Markdown permite crear README, guías y wikis bien estructuradas y fáciles de leer.
+
+- **Perfecta integración con GitHub**  
+  GitHub renderiza Markdown automáticamente en repositorios, issues, pull requests y wikis.
+
+- **Facilidad para el versionamiento**  
+  Al ser texto plano, Markdown funciona perfectamente con Git, permitiendo comparar, fusionar y rastrear cambios.
+
+- **Ligero y multiplataforma**  
+  Los archivos `.md` son livianos y funcionan en cualquier sistema operativo.
+
+- **Soporte para código, tablas e imágenes**  
+  Ideal para documentación técnica, manuales, ejemplos de API, etc.
+
+- **Colaboración simplificada**  
+  Cualquier miembro del equipo puede editar o revisar la documentación directamente desde GitHub.
+
+- **Mejor organización del proyecto**  
+  Puedes crear documentación estructurada mediante carpetas, README por módulo y wikis internas.
+
+- **Vista previa inmediata**  
+  GitHub muestra el resultado del Markdown sin necesidad de herramientas adicionales.
 
 ---
 
