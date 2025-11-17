@@ -3,7 +3,7 @@
 
 ---
 
-### 1. Descripción general
+### 1. Descripción general 📝
 El mantenimiento correctivo tiene como finalidad **resolver fallos o defectos** detectados en el sistema de pedidos utilizado en la cafetería universitaria.
 
 ---
@@ -49,3 +49,5 @@ El mantenimiento abarca los módulos de:
 - Reducción de interrupciones en el servicio de atención
 - Mayor fiabilidad al procesar pedidos
 - Incremento en la satisfacción de los usuarios y del personal
+
+Agradecimientos a [Andrés](https://google.com)
