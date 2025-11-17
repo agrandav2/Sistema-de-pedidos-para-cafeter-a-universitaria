@@ -23,7 +23,7 @@ Markdown es popular en desarrollo de software porque:
 
 # ✅ Ventajas de utilizar Markdown en combinación con GitHub
 ### **Documentación clara y profesional**  
-  Markdown permite crear README, guías y wikis bien estructuradas y fáciles de leer.
+  Markdown permite crear `README`, guías y wikis bien estructuradas y fáciles de leer.
 
 ### **Perfecta integración con GitHub**  
   GitHub renderiza Markdown automáticamente en repositorios, issues, pull requests y wikis.
@@ -38,14 +38,14 @@ Markdown es popular en desarrollo de software porque:
   Cualquier miembro del equipo puede editar o revisar la documentación directamente desde GitHub.
 
 ### **Mejor organización del proyecto**  
-  Puedes crear documentación estructurada mediante carpetas, README por módulo y wikis internas.
+  Puedes crear documentación estructurada mediante carpetas, `README` por módulo y wikis internas.
 
 ### **Vista previa inmediata**  
   GitHub muestra el resultado del Markdown sin necesidad de herramientas adicionales.
 
 ---
 
-### 🔗 Enlaces útiles sobre Markdown
+# 🔗 Enlaces útiles sobre Markdown
 
 - [Guía de Markdown](https://www.markdownguide.org/basic-syntax/)
 - [Documentación de GitHub Markdown](https://docs.github.com/en/get-started/writing-on-github)
