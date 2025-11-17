@@ -3,19 +3,19 @@
 
 ---
 
-### 1. Descripción general 📝
+### 📝 Descripción general
 El mantenimiento correctivo tiene como finalidad **resolver fallos o defectos** detectados en el sistema de pedidos utilizado en la cafetería universitaria.
 
 ---
 
-### 2. Objetivos del mantenimiento correctivo 🎯
+### 🎯 Objetivos del mantenimiento correctivo
 - Restablecer la operación normal del sistema ante errores o fallos
 - Reducir tiempos de inactividad que impacten en la atención al cliente
 - Garantizar la fiabilidad y estabilidad del sistema
 
 ---
 
-### 3. Alcance 📌
+### 📌 Alcance
 El mantenimiento abarca los módulos de:
 - Registro de pedidos
 - Visualización del menú
@@ -26,14 +26,14 @@ El mantenimiento abarca los módulos de:
 
 ---
 
-### 4. Responsables 🧑‍💻
+### 🧑‍💻 Responsables
 - Equipo de desarrollo: diagnóstico, corrección y pruebas técnicas
 - Administrador del sistema: validación y despliegue
 - Personal de cafetería: reporte de fallos y pruebas funcionales finales
 
 ---
 
-### 5. Clasificación de fallos y tiempos de resolución 📊
+### 📊 Clasificación de fallos y tiempos de resolución
 
 | Área | Tipo de fallo | Tiempo estimado |
 |------|---------------|------------------|
@@ -44,7 +44,7 @@ El mantenimiento abarca los módulos de:
 
 ---
 
-### 6. Resultados esperados ✅
+### ✅ Resultados esperados
 - Restablecimiento completo del sistema sin errores detectados
 - Reducción de interrupciones en el servicio de atención
 - Mayor fiabilidad al procesar pedidos
