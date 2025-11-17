@@ -16,36 +16,50 @@ Markdown es popular en desarrollo de software porque:
 
 # 🧪 Ejemplo práctico de uso de Markdown
 ```markdown
-**Texto en negrita** y *texto en cursiva*
+# Encabezado 1
+## Encabezado 2
+### Encabezado 3
+#### Encabezado 4
+##### Encabezado 5
+
+- Lista 1
+* Lita 2
++ Lista 3
+
+| Tabla 1 | Tabla 2 | Tabla 3 |
+|---------|---------|---------|
+| Dato 1  | Dato 2  | Dato 3  |
+| Dato A  | Dato B  | Dato C  |
+
+
 ```
 
 ---
 
 # ✅ Ventajas de utilizar Markdown en combinación con GitHub
-### **Documentación clara y profesional**  
+### **1. Documentación clara y profesional**  
   Markdown permite crear `README`, guías y wikis bien estructuradas y fáciles de leer.
 
-### **Perfecta integración con GitHub**  
+### **2. Perfecta integración con GitHub**  
   GitHub renderiza Markdown automáticamente en repositorios, issues, pull requests y wikis.
 
-### **Facilidad para el versionamiento**  
+### **3. Facilidad para el versionamiento**  
   Al ser texto plano, Markdown funciona perfectamente con Git, permitiendo comparar, fusionar y rastrear cambios.
 
-### **Ligero y multiplataforma**  
+### **4. Ligero y multiplataforma**  
   Los archivos `.md` son livianos y funcionan en cualquier sistema operativo.
 
-### **Colaboración simplificada**  
+### **5. Colaboración simplificada**  
   Cualquier miembro del equipo puede editar o revisar la documentación directamente desde GitHub.
 
-### **Mejor organización del proyecto**  
+### **6. Mejor organización del proyecto**  
   Puedes crear documentación estructurada mediante carpetas, `README` por módulo y wikis internas.
 
-### **Vista previa inmediata**  
+### **7. Vista previa inmediata**  
   GitHub muestra el resultado del Markdown sin necesidad de herramientas adicionales.
 
 ---
 
 # 🔗 Enlaces útiles sobre Markdown
-
 - [Guía de Markdown](https://www.markdownguide.org/basic-syntax/)
 - [Documentación de GitHub Markdown](https://docs.github.com/en/get-started/writing-on-github)
