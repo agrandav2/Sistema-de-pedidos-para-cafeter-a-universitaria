@@ -64,5 +64,6 @@ Markdown es popular en desarrollo de software porque:
 ---
 
 # 🔗 Enlaces útiles sobre Markdown
+- [Bibliografía](https://daringfireball.net/projects/markdown/)
 - [Guía de Markdown](https://www.markdownguide.org/basic-syntax/)
 - [Documentación de GitHub Markdown](https://docs.github.com/en/get-started/writing-on-github)
