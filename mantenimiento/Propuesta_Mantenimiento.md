@@ -20,47 +20,20 @@ El mantenimiento abarca los módulos de:
 - Registro de pedidos
 - Visualización del menú
 - Edición y cancelación de pedidos
-- Interfaz gráfica** y flujos de navegación
+- Interfaz gráfica y flujos de navegación
 
-> *No incluye nuevas funciones ni mejoras evolutivas; corresponde únicamente a la corrección de fallos existentes.*
-
----
-
-## 4. Actividades de mantenimiento correctivo
-
-### 🔧 4.1. Identificación y diagnóstico de fallos
-- Análisis de reportes de errores generados por los usuarios y el sistema.  
-- Revisión de logs para detectar excepciones, fallos de conexión o errores de consulta.  
-- Ejecución de pruebas de regresión para reproducir el problema.
-
-### 🔧 4.2. Corrección de errores
-Se realizarán correcciones en problemas como:
-- Fallos al registrar pedidos (duplicados, validaciones incorrectas).  
-- Problemas en la carga del menú (desorden en categorías, tiempos lentos).  
-- Errores en la edición o cancelación de pedidos antes de la confirmación final.  
-- Inconsistencias en la base de datos.  
-- Caídas del sistema por errores no controlados.
-
-### 🔧 4.3. Pruebas posteriores a la corrección
-- Pruebas unitarias en módulos corregidos.  
-- Pruebas de integración para asegurar que las correcciones no afecten otras funciones.  
-- Validación con usuarios reales de la cafetería.
-
-### 🔧 4.4. Documentación de cambios
-- Actualización del registro de incidencias.  
-- Documentación de modificaciones en código, scripts SQL y configuraciones.  
-- Actualización del manual técnico si aplica.
+> No incluye nuevas funciones ni mejoras evolutivas
 
 ---
 
-## 5. Responsables
+## 4. Responsables
 - **Equipo de desarrollo:** diagnóstico, corrección y pruebas técnicas.  
 - **Administrador del sistema:** validación y despliegue.  
 - **Personal de cafetería:** reporte de fallos y pruebas funcionales finales.
 
 ---
 
-## 6. Tiempo estimado
+## 5. Tiempo estimado
 | Tipo de fallo | Tiempo estimado |
 |---------------|-----------------|
 | Crítico (impide procesar pedidos) | 2–4 horas |
@@ -70,13 +43,8 @@ Se realizarán correcciones en problemas como:
 
 ---
 
-## 7. Resultados esperados
+## 6. Resultados esperados
 - Restablecimiento completo del sistema sin errores detectados.  
 - Reducción de interrupciones en el servicio de atención.  
 - Mayor fiabilidad al procesar pedidos.  
 - Incremento en la satisfacción de los usuarios y del personal.
-
----
-
-## 8. Recomendación adicional
-Se recomienda implementar un **mantenimiento preventivo mensual** para identificar fallos antes de que afecten la operación diaria y reducir futuros costos de reparación.
