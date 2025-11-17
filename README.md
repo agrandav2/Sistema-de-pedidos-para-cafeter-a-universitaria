@@ -12,14 +12,13 @@ Mejorar la experiencia de los estudiantes y del personal universitario al permit
 
 ## 📌 Requerimientos
 ### REQUERIMIENTOS FUNCIONALES
-**Registro de pedidos:** El usuario puede seleccionar productos del menú, indicar cantidades y registrar el nombre del cliente.
-**Visualización del menú:** El sistema mostrará todos los productos disponibles, clasificados por categorías y precios.
-**Edición/cancelación de pedidos:** El sistema permitirá modificar o cancelar pedidos antes de la confirmación final.
+- **Registro de pedidos:** El usuario puede seleccionar productos del menú, indicar cantidades y registrar el nombre del cliente
+- **Visualización del menú:** El sistema mostrará todos los productos disponibles, clasificados por categorías y precios
+- **Edición/cancelación de pedidos:** El sistema permitirá modificar o cancelar pedidos antes de la confirmación final
 
 ### REQUERIMIENTOS NO FUNCIONALES
-- **Rendimiento:** Respuesta menor a 3 segundos al registrar pedidos y menor a 2 segundos al mostrar el menú.
-- **Disponibilidad:** Recuperación ante fallos y funcionamiento continuo durante horas de alta demanda.
-- **Cumplimiento de estándares:** Aplicación de buenas prácticas de desarrollo, seguridad y manejo de datos.
+- **Rendimiento:** Respuesta menor a 3 segundos al registrar pedidos y al mostrar el menú
+- **Disponibilidad:** Recuperación ante fallos y funcionamiento continuo durante horas de alta demanda
 
 ---
 
