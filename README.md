@@ -23,11 +23,14 @@ Mejorar la experiencia de los estudiantes y del personal universitario al permit
 ---
 
 ## 🧪 Tabla de pruebas
-| Caso de prueba | Requerimiento asociado | Datos de entrada | Resultado esperado | Resultado obtenido |
-|----------------|------------------------|------------------|--------------------|--------------------|
-| Registrar un pedido exitosamente | RF01 | Producto: “Café”, Cant: 2, Cliente: Ana | Pedido registrado y mensaje en < 3 s | ✔ Funciona según lo esperado |
-| Visualizar menú completo | RF02 | — | Menú cargado en < 2 s sin errores | ✔ Funciona según lo esperado |
-| Editar un pedido antes de confirmar | RF03 | Cambiar cantidad de 1 → 3 | Pedido actualizado y mensaje de confirmación | ✔ Funciona según lo esperado |
+| Tipo de prueba          | Requerimiento asociado | Datos de entrada                          | Resultado esperado                                             | Resultado obtenido                          |
+|-------------------------|-------------------------|--------------------------------------------|------------------------------------------------------------------|----------------------------------------------|
+| Con resultado esperado  | Registro de usuario     | Nombre de usuario: agrandav2<br>Contraseña: tortugamarina | El sistema registra y guarda el usuario y la contraseña          | ¡Cuenta creada correctamente!                |
+| Con resultado esperado  | Realización de pedidos  | Café con leche                             | El producto aparece en el carrito                                | Café con leche ha sido añadido al carrito.   |
+| Con resultado esperado  | Seguimiento de pedidos  | Finalizar la compra del producto           | El sistema notifica el estado reciente del producto              | ¡Listo para recoger!                         |
+| De validación           | Seguridad               | Contraseña: 1234                           | La contraseña se guarda cifrada                                  | 4321                                         |
+| De validación           | Usabilidad              | Accedió desde Chrome                       | El sistema carga y muestra la interfaz según el dispositivo      | —                                            |
+| De validación           | Mantenibilidad          | Agregar una nueva funcionalidad            | El nuevo módulo funciona correctamente y es individual           | Pedidos en línea                             |
 
 ---
 
@@ -37,7 +40,7 @@ Correctivo
 ---
 
 ## 🔄 Reflexión sobre el control de versiones
-El uso de herramientas de control de versiones como *Git* y plataformas como *GitHub* aporta múltiples beneficios:
+El uso de herramientas de control de versiones como *Git* y plataformas como *[GitHub](https://github.com)* aporta múltiples beneficios:
 
 - Permite llevar un historial claro de cambios, facilitando el seguimiento de errores
 - Facilita la colaboración entre varios desarrolladores sin riesgo de sobrescribir código
