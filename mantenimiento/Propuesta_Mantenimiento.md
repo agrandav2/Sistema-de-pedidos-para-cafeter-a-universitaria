@@ -1,5 +1,5 @@
-# ✅ Propuesta de Mantenimiento Correctivo  
-## Sistema de Pedidos – Cafetería Universitaria
+# Propuesta de mantenimiento correctivo  
+## Sistema de pedidos para cafetería universitaria
 
 ---
 
