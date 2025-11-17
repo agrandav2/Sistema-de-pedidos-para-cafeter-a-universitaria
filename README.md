@@ -32,17 +32,7 @@ Mejorar la experiencia de los estudiantes y del personal universitario al permit
 ---
 
 ## 🛠️ Tipo de mantenimiento propuesto
-
-### **🔧 Mantenimiento correctivo**
-Se propone implementar mantenimiento correctivo para:
-
-- Corregir fallos en conexión con base de datos.
-- Resolver errores en el proceso de registro y actualización de pedidos.
-- Reparar fallas de visualización del menú durante alta demanda.
-- Arreglar bugs en la edición o cancelación de pedidos antes de la confirmación.
-- Ajustar mensajes de confirmación inconsistentes o tardíos.
-
-Este mantenimiento garantiza que el sistema cumpla con los requerimientos y brinde una experiencia estable y confiable.
+Correctivo
 
 ---
 
