@@ -33,13 +33,14 @@ El mantenimiento abarca los módulos de:
 
 ---
 
-### 5. Tiempo estimado
-| Tipo de fallo | Tiempo estimado |
-|---------------|-----------------|
-| Crítico (impide procesar pedidos) | 2–4 horas |
-| Alto (afecta un módulo entero) | 1 día |
-| Medio (fallo aislado) | 3–6 horas |
-| Bajo (visual o menor) | 1–2 horas |
+### 5. Clasificación de fallos y tiempos de resolución
+
+| Sistema | Tipo de fallo | Tiempo estimado |
+|---------|---------------|------------------|
+| Sistema de pedidos | Crítico | 2–4 horas |
+| Módulo de edición/cancelación | Alto | 1 día |
+| Visualización del menú | Medio | 3–6 horas |
+| Interfaz gráfica | Bajo | 1–2 horas |
 
 ---
 
