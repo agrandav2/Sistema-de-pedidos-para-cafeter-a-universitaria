@@ -17,11 +17,10 @@ El mantenimiento correctivo tiene como finalidad **resolver fallos o defectos** 
 
 ### 3. Alcance
 El mantenimiento abarca los módulos de:
-- **Registro de pedidos**  
-- **Visualización del menú**  
-- **Edición y cancelación de pedidos**  
-- **Base de datos**  
-- **Interfaz gráfica** y flujos de navegación  
+- Registro de pedidos
+- Visualización del menú
+- Edición y cancelación de pedidos
+- Interfaz gráfica** y flujos de navegación
 
 > *No incluye nuevas funciones ni mejoras evolutivas; corresponde únicamente a la corrección de fallos existentes.*
 
