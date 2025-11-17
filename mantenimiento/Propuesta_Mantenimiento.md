@@ -8,14 +8,14 @@ El mantenimiento correctivo tiene como finalidad **resolver fallos o defectos** 
 
 ---
 
-### 2. Objetivos del mantenimiento correctivo
+### 2. Objetivos del mantenimiento correctivo 🎯
 - Restablecer la operación normal del sistema ante errores o fallos
 - Reducir tiempos de inactividad que impacten en la atención al cliente
 - Garantizar la fiabilidad y estabilidad del sistema
 
 ---
 
-### 3. Alcance
+### 3. Alcance 📌
 El mantenimiento abarca los módulos de:
 - Registro de pedidos
 - Visualización del menú
@@ -26,14 +26,14 @@ El mantenimiento abarca los módulos de:
 
 ---
 
-### 4. Responsables
+### 4. Responsables 🧑‍💻
 - Equipo de desarrollo: diagnóstico, corrección y pruebas técnicas
 - Administrador del sistema: validación y despliegue
 - Personal de cafetería: reporte de fallos y pruebas funcionales finales
 
 ---
 
-### 5. Clasificación de fallos y tiempos de resolución
+### 5. Clasificación de fallos y tiempos de resolución 📊
 
 | Área | Tipo de fallo | Tiempo estimado |
 |------|---------------|------------------|
@@ -44,10 +44,11 @@ El mantenimiento abarca los módulos de:
 
 ---
 
-### 6. Resultados esperados
+### 6. Resultados esperados ✅
 - Restablecimiento completo del sistema sin errores detectados
 - Reducción de interrupciones en el servicio de atención
 - Mayor fiabilidad al procesar pedidos
 - Incremento en la satisfacción de los usuarios y del personal
+
 
 Agradecimientos a [Andrés](https://google.com)
