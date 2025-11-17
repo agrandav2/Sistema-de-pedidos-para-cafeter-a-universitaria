@@ -50,6 +50,7 @@ El mantenimiento abarca los módulos de:
 - Mayor fiabilidad al procesar pedidos
 - Incremento en la satisfacción de los usuarios y del personal
 
+---
 
-
-Agradecimientos a [Andrés Granda](https://google.com)
+### 💖 Donaciones
+Pueden realizar donaciones en nuestra [cuenta de banco](https://google.com)
