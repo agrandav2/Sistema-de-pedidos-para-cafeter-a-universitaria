@@ -5,8 +5,7 @@
 ---
 
 # ⭐ ¿Por qué se utiliza en proyectos de software?
-
-### Markdown es popular en desarrollo de software porque:
+Markdown es popular en desarrollo de software porque:
 
 - Es fácil de aprender y no requiere herramientas complejas
 - Permite crear documentación limpia y bien estructurada
