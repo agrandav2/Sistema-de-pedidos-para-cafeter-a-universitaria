@@ -53,4 +53,4 @@ El mantenimiento abarca los módulos de:
 ---
 
 ### 💖 Donaciones
-Pueden realizar donaciones en nuestra [cuenta de banco](https://google.com)
+Pueden realizar sus donaciones en nuestra [cuenta de banco](https://google.com)
