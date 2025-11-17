@@ -21,24 +21,7 @@ Markdown es popular en desarrollo de software porque:
 
 ---
 
-## 2. Perfecto para documentación técnica
-
-Permite incluir código, imágenes, tablas, enlaces y listas fácilmente.
-
-### 📋 Ejemplo de tabla en Markdown
-
-A continuación, una tabla que resume sus ventajas en proyectos de software:
-
-| Característica                     | Beneficio                             |
-|-----------------------------------|----------------------------------------|
-| Sintaxis sencilla                 | Fácil de escribir y mantener           |
-| Compatible con control de versiones | Ideal para GitHub, GitLab, etc.      |
-| Ligero                            | Archivos muy livianos                  |
-| Flexible                          | Soporta imágenes, enlaces, listas, etc. |
-
----
-
-## ⭐ Ventajas de utilizar Markdown en combinación con GitHub
+# ✅ Ventajas de utilizar Markdown en combinación con GitHub
 
 - **Documentación clara y profesional**  
   Markdown permite crear README, guías y wikis bien estructuradas y fáciles de leer.
