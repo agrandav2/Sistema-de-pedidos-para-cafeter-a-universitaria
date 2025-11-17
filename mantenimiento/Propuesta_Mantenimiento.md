@@ -49,8 +49,3 @@ El mantenimiento abarca los módulos de:
 - Reducción de interrupciones en el servicio de atención
 - Mayor fiabilidad al procesar pedidos
 - Incremento en la satisfacción de los usuarios y del personal
-
----
-
-### 💖 Donaciones
-Pueden realizar sus donaciones en nuestra [cuenta de banco](https://google.com)
