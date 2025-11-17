@@ -51,4 +51,5 @@ El mantenimiento abarca los módulos de:
 - Incremento en la satisfacción de los usuarios y del personal
 
 
-Agradecimientos a [Andrés](https://google.com)
+
+Agradecimientos a [Andrés Granda](https://google.com)
