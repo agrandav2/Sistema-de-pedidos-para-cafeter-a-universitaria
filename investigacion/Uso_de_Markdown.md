@@ -42,3 +42,15 @@ A continuación, una tabla que resume sus ventajas en proyectos de software:
 | Compatible con control de versiones | Ideal para GitHub, GitLab, etc.      |
 | Ligero                            | Archivos muy livianos                  |
 | Flexible                          | Soporta imágenes, enlaces, listas, etc. |
+
+---
+
+### 🔗 Enlaces útiles sobre Markdown
+
+- [Guía de Markdown](https://www.markdownguide.org/basic-syntax/)
+- [Documentación de GitHub Markdown](https://docs.github.com/en/get-started/writing-on-github)
+
+---
+
+# 🖼️ Imagen de ejemplo (Markdown)
+![Ejemplo de Markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
