@@ -35,8 +35,8 @@ El mantenimiento abarca los módulos de:
 
 ### 5. Clasificación de fallos y tiempos de resolución
 
-| Sistema | Tipo de fallo | Tiempo estimado |
-|---------|---------------|------------------|
+| Área | Tipo de fallo | Tiempo estimado |
+|------|---------------|------------------|
 | Sistema de pedidos | Crítico | 2–4 horas |
 | Módulo de edición/cancelación | Alto | 1 día |
 | Visualización del menú | Medio | 3–6 horas |
@@ -45,7 +45,7 @@ El mantenimiento abarca los módulos de:
 ---
 
 ### 6. Resultados esperados
-- Restablecimiento completo del sistema sin errores detectados.  
-- Reducción de interrupciones en el servicio de atención.  
-- Mayor fiabilidad al procesar pedidos.  
-- Incremento en la satisfacción de los usuarios y del personal.
+- Restablecimiento completo del sistema sin errores detectados
+- Reducción de interrupciones en el servicio de atención
+- Mayor fiabilidad al procesar pedidos
+- Incremento en la satisfacción de los usuarios y del personal
