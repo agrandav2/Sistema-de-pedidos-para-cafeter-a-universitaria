@@ -1,23 +1,17 @@
 # Sistema de pedidos para cafetería universitaria
 
 ## 📝 Descripción del caso
-El presente proyecto consiste en el desarrollo de un **sistema digital de pedidos** para una cafetería universitaria.  
-El sistema permite a los estudiantes y personal docente **visualizar el menú**, **registrar pedidos** y **modificarlos antes de su confirmación final**, mejorando la rapidez, organización y experiencia del usuario.
+Este proyecto consiste en el desarrollo de un sistema digital de pedidos para una cafetería universitaria.
 
 ---
 
-## 🎯 Objetivos del proyecto
-- Optimizar el proceso de toma de pedidos dentro de la cafetería.
-- Reducir errores en pedidos y tiempos de espera.
-- Facilitar la visualización del menú actualizado por categorías.
-- Permitir la edición y cancelación de pedidos antes de su confirmación.
-- Garantizar un desempeño adecuado bajo carga y alta disponibilidad.
+## 🏆 Objetivos
+- Mejorar la experiencia de los estudiantes y del personal universitario al permitirles realizar pedidos de manera rápida y evitando aglomeraciones
 
 ---
 
 ## 📌 Requerimientos
-
-### 🔹 Requerimientos funcionales
+### REQUERIMIENTOS FUNCIONALES
 **RF01 – Registro de pedidos**  
 El usuario puede seleccionar productos del menú, indicar cantidades y registrar el nombre del cliente.
 
@@ -70,8 +64,3 @@ El uso de herramientas de control de versiones como **Git** y plataformas como *
 - Permite revertir cambios en caso de errores, aumentando la seguridad del desarrollo.
 
 El control de versiones es fundamental para asegurar la evolución ordenada y profesional del sistema.
-
----
-
-## 📄 Autor
-Proyecto elaborado para fines académicos — Sistema de Pedidos para Cafetería Universitaria.
