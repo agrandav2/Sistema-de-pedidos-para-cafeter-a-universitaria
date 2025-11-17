@@ -5,8 +5,8 @@ Este proyecto consiste en el desarrollo de un sistema digital de pedidos para un
 
 ---
 
-## 🏆 Objetivos
-- Mejorar la experiencia de los estudiantes y del personal universitario al permitirles realizar pedidos de manera rápida y evitando aglomeraciones
+## 🏆 Objetivo
+Mejorar la experiencia de los estudiantes y del personal universitario al permitirles realizar pedidos de manera rápida y evitando aglomeraciones
 
 ---
 
