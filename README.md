@@ -29,7 +29,7 @@ Mejorar la experiencia de los estudiantes y del personal universitario al permit
 | Con resultado esperado  | Realización de pedidos  | Café con leche                             | El producto aparece en el carrito                                | **Café con leche** ha sido añadido al carrito.   |
 | Con resultado esperado  | Seguimiento de pedidos  | Finalizar la compra del producto           | El sistema notifica el estado reciente del producto              | ¡Listo para recoger!                         |
 | De validación           | Seguridad               | Contraseña: 1234                           | La contraseña se guarda cifrada                                  | 4321                                         |
-| De validación           | Usabilidad              | Accedió desde Chrome                       | El sistema carga y muestra la interfaz según el dispositivo      | —                                            |
+| De validación           | Usabilidad              | Accedió desde Chrome                       | El sistema carga y muestra la interfaz según el dispositivo      | ———                                            |
 | De validación           | Mantenibilidad          | Agregar una nueva funcionalidad            | El nuevo módulo funciona correctamente y es individual           | 🌐 PEDIDOS EN LÍNEA                            |
 
 ---
